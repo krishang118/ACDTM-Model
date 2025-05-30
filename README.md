@@ -84,10 +84,8 @@ This project uses cleaned and transformed datasets derived from multiple publicl
 
 Contributions are welcome!
 
+---
 
 ## License
 
 Distributed under the MIT License.  
-
----
-
