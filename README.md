@@ -1,7 +1,7 @@
 
 # Adaptive Centrality Driven Targeted Marketing (ACDTM) Model
 
-The ACDTM (Adaptive Centrality Driven Targeted Marketing) model : an end-to-end framework that integrates social graph analytics and machine learning to optimize influencer targeting and ad campaign performance in digital marketing.
+The ACDTM (Adaptive Centrality Driven Targeted Marketing) model : an end-to-end pipeline that integrates social graph analytics and machine learning to optimize influencer targeting and ad campaign performance in digital marketing.
 
 ---
 
