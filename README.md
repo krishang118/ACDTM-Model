@@ -40,7 +40,7 @@ The flow follows these major stages:
 - Predicted vs Actual Histograms  
 - Scatter Comparisons  
 
-## Files
+## Prominent Files
 
 - `ACDTM.ipynb`: Main notebook containing the full pipeline from preprocessing to export  
 - `top_100_influencers.csv`: Top influencers ranked by predicted CTR  
