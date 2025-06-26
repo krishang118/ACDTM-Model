@@ -1,17 +1,13 @@
 
 # Adaptive Centrality Driven Targeted Marketing (ACDTM) Model
 
-The ACDTM (Adaptive Centrality Driven Targeted Marketing) model : an end-to-end pipeline that integrates social graph analytics and machine learning to optimize influencer targeting and ad campaign performance in digital marketing.
+An end-to-end pipeline that integrates social graph analytics and machine learning to optimize influencer targeting and ad campaign performance in digital marketing.
 
----
-
-**Goal**
+## Goal
 
 To intelligently and efficienly rank influencers and optimize campaign decisions based on their predicted impact on key marketing outcomes: Click-Through Rate (CTR), Conversion Rate, and Customer Lifetime Value (CLV).
 
----
-
-**Key Features**
+## Key Features
 
 - Graph-Based User Network Construction using NetworkX  
 - Centrality Score Calculation: Degree, PageRank, Closeness, Betweenness  
@@ -24,9 +20,7 @@ To intelligently and efficienly rank influencers and optimize campaign decisions
 - Ad Placement Optimization Simulation  
 - Performance Monitoring via Visual Comparisons (Actual vs Predicted)
 
----
-
-**Model Architecture**
+## Model Architecture
 
 The flow follows these major stages:
 
@@ -39,18 +33,14 @@ The flow follows these major stages:
 7. Campaign Simulation  
 8. Feedback Analysis & Performance Visualization
 
----
-
-**Visualizations**
+## Visualizations
 
 - Centrality Distributions  
 - Top 10 Ranked Influencers by CTR / Conversion / CLV  
 - Predicted vs Actual Histograms  
 - Scatter Comparisons  
 
----
-
-**Files**
+## Files
 
 - `ACDTM.ipynb`: Main notebook containing the full pipeline from preprocessing to export  
 - `top_100_influencers.csv`: Top influencers ranked by predicted CTR  
@@ -59,15 +49,11 @@ The flow follows these major stages:
 - `performance_comparison.csv`: Actual vs predicted metrics for all influencers  
 - `simulated_underperforming_influencers.csv`: Users with consistent underperformance
 
----
-
-**Data Sources**
+## Data Sources
 
 This project uses cleaned and transformed datasets derived from multiple publicly available social/information network datasets and marketing behavior datasets (from SNAP and Kaggle). The input CSV was constructed based on these sources and then processed in alignment with the academic project guidelines.
 
----
-
-**Requirements**
+## Requirements
 
 - Python 3.10+  
 - pandas  
@@ -78,13 +64,9 @@ This project uses cleaned and transformed datasets derived from multiple publicl
 - scikit-learn  
 - xgboost
 
----
-
 ## Contributing
 
 Contributions are welcome!
-
----
 
 ## License
 
